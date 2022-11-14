@@ -1,4 +1,16 @@
-### Hi there 👋
+### R&D Broadcasting Full-stack Engineer 👋
+
+- Specialist of decentralized streaming
+- :star: Co-author with [Mathieu Poux](https://github.com/MathieuPOUX/) of [MonaServer](https://github.com/MonaSolutions/MonaServer2)
+- :star: Author of [librtmfp](https://github.com/MonaSolutions/librtmfp)
+
+Public profiles :
+
+- [LinkedIn](https://www.linkedin.com/in/thomas-jammet-60b4115a/)
+- [StackOverflow](https://stackoverflow.com/users/3515937/thomas)
+- [DockerHub](https://hub.docker.com/u/thomasjammet)
+
+Contact me and Mathieu at contact@monaserver.ovh
 
 <!--
 **thomasjammet/thomasjammet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
